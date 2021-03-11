@@ -29,6 +29,7 @@ namespace SelectionExample {
             } else {
                 Console.WriteLine("Sorry!  You are unable to apply for a learner's permit");
                 Console.WriteLine("Thank-you, come again later!");
+                Console.WriteLine("arstrastrsat");
 
             }
 
