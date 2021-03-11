@@ -1,0 +1,15 @@
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/bin/Debug/net5.0/SelectionExample.deps.json
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/bin/Debug/net5.0/SelectionExample.runtimeconfig.json
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/bin/Debug/net5.0/SelectionExample.runtimeconfig.dev.json
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/bin/Debug/net5.0/SelectionExample.dll
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/bin/Debug/net5.0/ref/SelectionExample.dll
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/bin/Debug/net5.0/SelectionExample.pdb
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/obj/Debug/net5.0/SelectionExample.csprojAssemblyReference.cache
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/obj/Debug/net5.0/SelectionExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/obj/Debug/net5.0/SelectionExample.AssemblyInfoInputs.cache
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/obj/Debug/net5.0/SelectionExample.AssemblyInfo.cs
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/obj/Debug/net5.0/SelectionExample.csproj.CoreCompileInputs.cache
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/obj/Debug/net5.0/SelectionExample.dll
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/obj/Debug/net5.0/ref/SelectionExample.dll
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/obj/Debug/net5.0/SelectionExample.pdb
+/Users/anguyen/Projects/CSharp/IntroProg2021/SelectionExample/obj/Debug/net5.0/SelectionExample.genruntimeconfig.cache
