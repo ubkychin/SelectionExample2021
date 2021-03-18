@@ -25,11 +25,9 @@ namespace SelectionExample {
                 } else {
                     System.Console.WriteLine("Sorry, based on your results we cannot trust you on the road");
                 }
-
             } else {
                 Console.WriteLine("Sorry!  You are unable to apply for a learner's permit");
                 Console.WriteLine("Thank-you, come again later!");
-
             }
 
         }
